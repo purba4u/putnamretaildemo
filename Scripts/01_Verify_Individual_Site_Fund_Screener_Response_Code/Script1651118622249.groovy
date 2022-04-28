@@ -21,7 +21,7 @@ import com.kms.katalon.core.testobject.RequestObject as RequestObject
 import com.kms.katalon.core.testobject.ResponseObject as ResponseObject
 
 try {
-	WebUI.openBrowser((GlobalVariable.ENV + 'individual/mutual-funds/'), FailureHandling.STOP_ON_FAILURE)
+	WebUI.openBrowser((GlobalVariable.ENV + 'individual/2mutual-funds/'), FailureHandling.STOP_ON_FAILURE)
 	WebUI.waitForPageLoad(20)
 	String url = WebUI.getUrl()
 	RequestObject ro = new RequestObject()
