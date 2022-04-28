@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_Verify_Individual_Site_Fund_Screener_Response_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4569afd7-69eb-4986-b68d-84c348a5ea75</testCaseGuid>
+</TestCaseEntity>

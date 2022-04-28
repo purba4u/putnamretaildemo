@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>PutnamRetailDemo</name>
+   <tag></tag>
+   <UUID>d6f650c1-d331-4103-97ae-bc638d37b288</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\PDUTTA\katalon_workspace\PutnamRetailDemo\PutnamRetailDemo.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>
