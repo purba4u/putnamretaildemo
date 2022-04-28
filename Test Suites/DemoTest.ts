@@ -15,6 +15,12 @@
       <guid>5e6e50ee-eeab-450b-bf8a-1a41c7e1702f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/01_Verify_Individual_Site_Fund_Screener_Response_Code</testCaseId>
+      <testCaseId>Test Cases/01_Verify_Individual_Site_Fund_Screener_Response_Code_200</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b95cddb0-f9e3-45a1-8980-16479b092d7d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02_Verify_Individual_Site_Fund_Screener_Response_Code_404</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
