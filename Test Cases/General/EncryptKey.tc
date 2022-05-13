@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EncryptKey</name>
+   <tag></tag>
+   <comment>'$str'</comment>
+   <testCaseGuid>7c4dd2fb-d794-4622-b5df-c88139f067f9</testCaseGuid>
+</TestCaseEntity>

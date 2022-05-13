@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tblDailyPricingTable</name>
+   <tag></tag>
+   <elementGuidId>069f2477-370c-477f-9c1e-85c13d378e92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table[@id='closed-end-funds']//tbody/tr/td[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table[@id='closed-end-funds']//tbody/tr/td[1]/a</value>
+   </webElementProperties>
+</WebElementEntity>

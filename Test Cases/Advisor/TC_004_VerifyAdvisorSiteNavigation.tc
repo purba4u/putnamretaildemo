@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Funds -> Portfolio managers</description>
+   <name>TC_004_VerifyAdvisorSiteNavigation</name>
+   <tag></tag>
+   <comment>Advisor Site Navigation test case started
+Test Case Ended</comment>
+   <testCaseGuid>b511dc26-c956-4e04-b867-94bb39250d38</testCaseGuid>
+</TestCaseEntity>

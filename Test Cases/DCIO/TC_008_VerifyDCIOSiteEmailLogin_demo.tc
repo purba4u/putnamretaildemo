@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008_VerifyDCIOSiteEmailLogin_demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db411655-286c-4205-ad06-93c1ade7cf40</testCaseGuid>
+</TestCaseEntity>

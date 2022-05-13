@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Funds -> Pricing and performance</description>
+   <name>TC_007_VerifyPricingAndPerformance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe5d9277-eff3-4040-b304-893d0ba27010</testCaseGuid>
+</TestCaseEntity>

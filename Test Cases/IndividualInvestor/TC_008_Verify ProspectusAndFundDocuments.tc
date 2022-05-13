@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Funds -> Prospectus and fund documents</description>
+   <name>TC_008_Verify ProspectusAndFundDocuments</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05b92e91-cd38-4565-83e6-a1136db037e3</testCaseGuid>
+</TestCaseEntity>

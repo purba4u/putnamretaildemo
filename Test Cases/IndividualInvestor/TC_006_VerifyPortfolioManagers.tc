@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Funds -> Portfolio managers</description>
+   <name>TC_006_VerifyPortfolioManagers</name>
+   <tag></tag>
+   <comment>Navigate to Portfolio Manager test case started
+Test Case Ended</comment>
+   <testCaseGuid>5486e4dd-af6b-4fdb-bb6c-a57cc9b1edad</testCaseGuid>
+</TestCaseEntity>

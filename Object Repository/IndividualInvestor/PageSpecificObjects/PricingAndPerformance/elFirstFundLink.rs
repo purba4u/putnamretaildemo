@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>elFirstFundLink</name>
+   <tag></tag>
+   <elementGuidId>f102273d-cd5b-4c94-b121-703c4791831e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//table[@id='pricing-table']//tr/td/a)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//table[@id='pricing-table']//tr/td/a)[1]</value>
+   </webElementProperties>
+</WebElementEntity>

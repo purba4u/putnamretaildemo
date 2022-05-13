@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PerspectiveBlog_FirstBlogLink</name>
+   <tag></tag>
+   <elementGuidId>c6552072-f32d-4045-863b-3e0e6f7e9414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@id='highlight-row']//a)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@id='highlight-row']//a)[1]</value>
+   </webElementProperties>
+</WebElementEntity>

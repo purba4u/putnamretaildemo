@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Funds -> Portfolio managers</description>
+   <name>TC_005_VerifyDCIOSiteNavigation</name>
+   <tag></tag>
+   <comment>DCIO Site Navigation test case started
+Test Case Ended</comment>
+   <testCaseGuid>433aa389-cec6-48f2-a0ce-9fe56d62af94</testCaseGuid>
+</TestCaseEntity>

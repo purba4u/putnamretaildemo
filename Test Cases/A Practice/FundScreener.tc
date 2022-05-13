@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FundScreener</name>
+   <tag></tag>
+   <comment>Fund List: &quot; + MFFundNames
+Fund Count: &quot; + fund_count
+Unique Fund List: &quot; + FundlistWithoutDuplicates
+Unique Fund count: &quot; + Unique_fund_count
+MF Fund List: &quot; + rows_count
+MF Fund List: &quot; + Table</comment>
+   <testCaseGuid>d87ecfb5-1ed8-4e58-8f70-11e658db5a1e</testCaseGuid>
+</TestCaseEntity>

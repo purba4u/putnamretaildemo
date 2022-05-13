@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PerformanceTable</name>
+   <tag></tag>
+   <elementGuidId>8e914303-56b8-43de-b3d0-9a4d045083ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>((//*[@id=&quot;_idJsp0&quot;]//table)[16]//table)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>((//*[@id=&quot;_idJsp0&quot;]//table)[16]//table)[1]</value>
+   </webElementProperties>
+</WebElementEntity>

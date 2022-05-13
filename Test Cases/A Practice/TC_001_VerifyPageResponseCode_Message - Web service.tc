@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Funds -> Portfolio managers</description>
+   <name>TC_001_VerifyPageResponseCode_Message - Web service</name>
+   <tag></tag>
+   <comment>Broken link verification test case started
+Test Case Ended</comment>
+   <testCaseGuid>250120c4-7eda-4164-bd5d-434d5bce0db4</testCaseGuid>
+</TestCaseEntity>
